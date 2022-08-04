@@ -78,4 +78,8 @@ int main()
     printf("a = %d\n",a);
 }
 
-
+# homework
+# get value from user and print the number is even or odd 
+# get year from user and check its leap year or not 
+# get 2 values from user and print greater number 
+# get 3 angles from user and check its triangle or not
