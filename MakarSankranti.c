@@ -1,4 +1,5 @@
 #include<stdio.h>
+// this is function
 void bigLetters(char name[20])
 {
     char let[27][7][12]={
@@ -61,15 +62,15 @@ void bigLetters(char name[20])
     }
     printf("\n");
 }
-
+// this is main function
 int main()
 {
     char name[20],lname[20];
     printf("Enter your name = ");
     scanf("%s%s",name,lname);
     bigLetters("my");
-    bigLetters("self");
+    bigLetters("name is");
     bigLetters(name);
     bigLetters(lname);
-    
+    return 0;
 }
