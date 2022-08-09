@@ -14,7 +14,7 @@ int main()
     // strcat(name,str);
     // printf("%s",name);
     int a;
-    a = strcmp(name,str);
+    a = strcmp(name,str);  
     
     printf("%d",a);
     
