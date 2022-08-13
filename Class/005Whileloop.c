@@ -92,15 +92,15 @@
 // }
 
 // actual homework
-// #include<stdio.h>
-// int main()
-// {
-//     int num = 1,sum = 0;
-//     while(num!=0)
-//     {
-//         printf("enter a number = ");
-//         scanf("%d",&num);
-//         sum = num + sum;
-//     }
-//     printf("Sum = %d",sum);
-// }
+#include<stdio.h>
+int main()
+{
+    int num = 1,sum = 0;
+    while(num!=0)
+    {
+        printf("enter a number = ");
+        scanf("%d",&num);
+        sum = num + sum;
+    }
+    printf("Sum = %d",sum);
+}
