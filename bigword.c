@@ -1,4 +1,4 @@
-// ********************** CODE BY RAKSHI RAUT **********************
+// ********************** CODE BY SAKSHI RAUT **********************
 #include<stdio.h>
 int main()
 {
