@@ -105,17 +105,3 @@ int main()
     printf("Sum = %d",sum);
 }
 
-// My name is Aadesh. I belong to Nagpur. I'm a student of M. P. Deo Dharampeth science College. My natural inclination towards technology. I love to do something in IT field. I'm a android developer and learning programming language to improve my skills. I don't have a fix wake up time. It depends when I sleep. Usually i wake up 9 o'clock. I don't want to get down the bed and see my cellphone and check the messages I got overnight. I get down the bed and go to washroom. I get my brush and wash teeth. Then I take a shower after that I dry and comb my hair. I have my breakfast around 10.30AM. then use some social media. Check messages, see posts. Then I open My PC and watch some python tutorials. And do practice. After that I do some small talks with family. Then take launch while watching YouTube on my phone. After that I play some mobile games then I open my books and do some homework. I get ready in evening between 6 to 6.30 daily for my english tution classes. I do call to priya at 6.30. and pick her then we go together to class.
-
-// R 
-// vowel  R - A 
-// consonant R - R 
-// r - R 
-// rr - 
-// sorry
-
-// I do study.
-// do you study? 
-
-// I did study.
-// did i study?
