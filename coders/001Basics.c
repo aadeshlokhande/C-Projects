@@ -1,13 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("\tHello world\n");
-    printf("H\tello world\n");
-    printf("He\tllo world\n");
-    printf("Hel\tlo world\n");
-    printf("Hell\to world\n");
-    printf("Hello\t world\n");
-    printf("Hello \tworld\n");
+    printf("Hello world");
     return 0;
 }
 // ===================
