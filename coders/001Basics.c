@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello world");
+    printf("Hello world \n");
     return 0;
 }
 // ===================
 
 // #include - preprocessing command 
-// stdio - library 
+// stdio - library Name
 // .h - extension
 // int - return type
 // main() - main Function
