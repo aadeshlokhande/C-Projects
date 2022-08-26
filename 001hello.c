@@ -1,9 +1,9 @@
-// #include <stdio.h>   // preprocessing command
-// int main()
-// {
-//     printf("Hello, World! \n");
-//     return 0;
-// }
+#include <stdio.h>   // preprocessing command
+int main()
+{
+    printf("Hello, World! \n");
+    return 0;
+}
 
 // comments - notes 
 // single line comment
