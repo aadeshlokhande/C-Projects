@@ -1,4 +1,4 @@
-// variable 
+// variable - cantainer 
 // a = 10
 
 // a = 42354366
@@ -16,7 +16,7 @@
 // data type
 // int -%d- 12,43,65,-53232,-536
 // float -%f- 4.5, 5.5,1.5
-// char -%c- 'a','A','*','4',' '
+// char -%c- ' ','a','A','*','4',
 
 // ==================
 // identifier 
@@ -24,7 +24,7 @@
 // aadeshage = 98
 
 // 1) we cant start identifier name with digit
-// 7cities, 21rollnumber,16age this are not allowed
+// 7cities, 21rollnumber,16age - this are not allowed
 // 2) we can use underscore(_)
 // roll_number, _name, name_
 // 3) identifier names are case sensitive
@@ -35,19 +35,19 @@
 // Age = 20
 // AGE = 30
 // 4) we cant use keyword as a identifier 
-// goto = 20
+// goto = 20 // this are not allowed
 
 // ===============================
 // #include<stdio.h>
 // int main()
 // {
-    // datatype variableName;
-    // int a;
+//     // datatype variableName;
+//     // int a;
 
-    // variableName = Value;
-    // a = 10;
+//     // variableName = Value;
+//     // a = 10;
 
-//     int a = 100;
+//     int a = 10;
 //     float b = 2.5;
 //     char c = 'Z';
 
