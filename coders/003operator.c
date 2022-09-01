@@ -38,6 +38,19 @@
 
 // =============Homework===============
 // get 2 number from user and print add
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a,b,c;
+//     printf("Enter a number = ");
+//     scanf("%d",&a);
+//     printf("Enter a number = ");
+//     scanf("%d",&b);
+//     c = a + b;
+//     printf("%d + %d = %d\n",a,b,c);
+// }
+
 // get 2 number from user and print sub
 // get 2 number from user and print multi
 // get 2 number from user and print div
@@ -45,8 +58,7 @@
 // get rad from user and print area of circle
 
 
-
-
+// ==============================
 
 // relation 
 // logical
