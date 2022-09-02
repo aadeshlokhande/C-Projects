@@ -52,22 +52,25 @@
 // }
 
 
-#include<stdio.h>
-int main()
-{
-    int num;
-    printf("Enter a number = ");
-    scanf("%d",&num);
+// #include<stdio.h>
+// int main()
+// {
+//     int num;
+//     printf("Enter a number = ");
+//     scanf("%d",&num);
 
-    if(num>=0)
-    {
-        printf("+ve number\n");
-    }
-    else 
-    {
-        printf("-ve number\n");
-    }
-}
+//     if(num>0)
+//     {
+//         printf("+ve number\n");
+//     }
+//     else 
+//     {
+//         printf("-ve number\n");
+//     }
+// }
 
-// nested if else 
-// if else ladder 
+
+// @@@@@@@@@@@@@@@ Homework @@@@@@@@@@@@@@
+// get a number from user print its even or odd 
+// get year from user and print its leap year or not 
+// get 3 angles from user and print its triangle or not 
