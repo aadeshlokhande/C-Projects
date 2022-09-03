@@ -74,3 +74,10 @@
 // get a number from user print its even or odd 
 // get year from user and print its leap year or not 
 // get 3 angles from user and print its triangle or not 
+
+
+
+// Write a C program to accept two integers and check whether they are equal or not.
+// Write a C program to check whether an alphabet is a vowel or consonant.
+// Write a C program to calculate profit and loss on a transaction.
+
