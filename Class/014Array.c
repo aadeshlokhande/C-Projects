@@ -34,3 +34,34 @@
 // get 10 values from user and print all even numbers
 // get 10 values from user and print number of odd numbers and even number;
 // store 10 numbers in array and print in reverse order
+
+
+
+// ++++++++++++++++++++++++++++++++++++
+// get 10 values from user and print number of odd numbers and even number;
+#include<stdio.h>
+int main()
+{
+    int arr[10];
+    int even = 0, odd = 0;
+    for(int i = 0; i<10; i++)
+    {
+        printf("Enter a number = ");
+        scanf("%d",&arr[i]);
+    }
+
+    for(int i = 0; i<10; i++)
+    {
+        if(arr[i]%2==0)
+        {
+            ++even;
+        }
+        else 
+        {
+            ++odd;
+        }
+    }
+
+    printf("Even = %d and odd = %d\n",even, odd);
+
+}
