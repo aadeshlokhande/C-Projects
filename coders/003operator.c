@@ -57,6 +57,20 @@
 // get 2 number from user and print mod 
 // get rad from user and print area of circle
 
+// #include<stdio.h>
+// int main()
+// {
+//     int cookie,eat,remain;
+//     printf("how many cookies you have = ");
+//     scanf("%d",&cookie);
+
+//     eat = cookie/6;
+//     remain = cookie % 6;
+
+//     printf("Eat = %d and remain = %d\n",eat,remain);
+
+
+// }
 
 // ==============================
 
