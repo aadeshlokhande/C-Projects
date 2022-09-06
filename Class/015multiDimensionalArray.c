@@ -33,3 +33,14 @@
 //         printf("\n");
 //     }
 // }
+
+
+// ---------------HomeWork----------------------
+// store 1 to 10 tables in 2d array
+// store 1 to 100 counting in 2d array
+
+// get values of matrix and check wheather its symetric matrix or not
+// 10 20 30 
+// 20 40 50 
+// 30 50 60 
+
