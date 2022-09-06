@@ -36,8 +36,8 @@
 
 
 // ---------------HomeWork----------------------
-// store 1 to 10 tables in 2d array
-// store 1 to 100 counting in 2d array
+// store 1 to 10 tables in 2d array - 10x10
+// store 1 to 100 counting in 2d array - 10x10
 
 // get values of matrix and check wheather its symetric matrix or not
 // 10 20 30 
