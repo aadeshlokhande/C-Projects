@@ -27,3 +27,10 @@ int main()
     printf("a = %d\n",a);
 
 }
+
+
+// swaping 2 numbers
+// a = 10 
+// b = 20 
+// using 3rd variable
+// without using 3rd variable
