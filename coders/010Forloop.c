@@ -52,4 +52,26 @@
 // print numbers in reverse order from 100 to 1
 // print all leap years from 1900 to 2000
 // get a number and print the table
+
 // get starting and ending point and count even and odd numbers
+// #include<stdio.h>
+// int main()
+// {
+//     int sp, ep, even= 0, odd=0;
+//     printf("Enter starting point = ");
+//     scanf("%d",&sp);
+//     printf("Enter ending point = ");
+//     scanf("%d",&ep);
+//     for(int i = sp; i<=ep; i++)
+//     {
+//         if(i%2==0)
+//         {
+//             ++even;
+//         }
+//         else 
+//         {
+//             ++odd;
+//         }
+//     }
+//     printf("Even = %d and Odd = %d\n",even,odd);
+// }
