@@ -25,7 +25,7 @@
     // printf("Enter a string = ");
     // gets(abc);
     // printf("your string is  %s \n",abc);
-    
+
     // char name[20];
     // printf("Enter a string = ");
     // scanf("%[^\n]s",name);
