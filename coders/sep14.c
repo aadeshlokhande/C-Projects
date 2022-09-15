@@ -59,25 +59,25 @@
 // 21 22 23 
 // 31 32 33
 
-#include<stdio.h>
-int main()
-{
-    for(int i = 1; i<=3; i++)
-    {
-        for(int j = 1; j<=3 ; j++)
-        {
-            if(i==j)
-            {
-                printf("1 ");
-            }
-            else 
-            {
-                printf("0 ");
-            }
-        }
-        printf("\n");
-    }
-}
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=3; i++)
+//     {
+//         for(int j = 1; j<=3 ; j++)
+//         {
+//             if(i==j)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
 
 
 
@@ -87,9 +87,105 @@ int main()
 // 0 0 0 
 // 0 0 0 
 
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=3; i++)
+//     {
+//         for(int j = 1; j<=3 ; j++)
+//         {
+//             if(i==1)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
+
 // 1 0 0 
 // 0 1 0 
 // 0 0 1 
+
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=3; i++)
+//     {
+//         for(int j = 1; j<=3 ; j++)
+//         {
+//             if(i==j)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
+
+// 1 1 1 
+// 0 1 1 
+// 0 0 1 
+
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=3; i++)
+//     {
+//         for(int j = 1; j<=3 ; j++)
+//         {
+//             if(i<=j)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
+
+// 1 0 0 
+// 1 1 0 
+// 1 1 1 
+
+
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=3; i++)
+//     {
+//         for(int j = 1; j<=3 ; j++)
+//         {
+//             if(i>=j)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
+
+// 1 0 1 
+// 0 1 0 
+// 1 0 1 
+
 
 
 // 11 12 13 
@@ -97,17 +193,51 @@ int main()
 // 31 32 33
 
 
-// 1 1 1 
-// 0 1 1 
-// 0 0 1 
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=5; i++)
+//     {
+//         for(int j = 1; j<=5 ; j++)
+//         {
+//             if((i+j)%2==0)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
 
-// 1 0 0 
-// 1 1 0 
-// 1 1 1 
 
-// 1 0 1 
 // 0 1 0 
-// 1 0 1 
+// 1 1 1
+// 0 1 0 
+
+// #include<stdio.h>
+// int main()
+// {
+//     for(int i = 1; i<=3; i++)
+//     {
+//         for(int j = 1; j<=3 ; j++)
+//         {
+//             if(i==2 || j==2)
+//             {
+//                 printf("1 ");
+//             }
+//             else 
+//             {
+//                 printf("0 ");
+//             }
+//         }
+//         printf("\n");
+//     }
+// }
+
 
 // * 
 // * * 
