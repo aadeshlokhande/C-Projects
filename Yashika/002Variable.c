@@ -31,3 +31,37 @@
 // AGE = 30 
 
 // 4) int = 20
+
+
+// -----------------------------------
+// #include<stdio.h>
+// int main()
+// {
+//     // datatype variableName;
+//     // int age;
+
+//     // variableName = value;
+//     // age = 21;
+
+//     // datatype variableName = value ;
+//     int age = 22;
+//     float height = 5.3;
+//     char favChar = 'Y';
+
+//     printf("age = %d\n",age);
+//     printf("my height is %f\n",height);
+//     printf("my fav char is %c\n",favChar);
+
+// }
+
+
+// ============== scanf() ==============
+
+// #include<stdio.h>
+// int main()
+// {
+//     int age;
+//     printf("enter your age :-> ");
+//     scanf("%d",&age);
+//     printf("my age is %d year old\n",age);
+// }
