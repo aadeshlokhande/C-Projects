@@ -2,7 +2,7 @@
 // do 
 // {
 //     statements;
-// }while(condition);
+// } while(condition);
 
 // #include<stdio.h>
 // int main()
