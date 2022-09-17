@@ -34,8 +34,10 @@
 // get char and print in another case 
 // print all capital letters in reverse order 
 
-
-
-
+//        a 
+//       b b 
+//      c c c 
+//     d d d d 
+//    e e e e e 
 
 
