@@ -26,4 +26,11 @@ int main()
     printf("Address of aryan = %p\n",&aryan);
     printf("value of *aryan = %d\n",*aryan);
 
+    int **police;
+    police = &aryan;
+    printf("value of police = %p\n",police);
+    printf("Address of police = %p\n",&police);
+    printf("value of *police = %p\n",*police);
+    printf("value of **police = %d\n",**police);
+
 }
