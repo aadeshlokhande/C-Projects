@@ -55,3 +55,63 @@
 
 
 
+// logical 
+// and - && - ziddi operator
+
+// gupchup     icecream           feel 
+//     0           0               0 
+//     0           1               0 
+//     1           0               0 
+//     1           1               1 
+
+// or - || - gareeb manacha manus
+
+// gupchup     icecream           feel 
+//     0           0               0 
+//     0           1               1 
+//     1           0               1
+//     1           1               1 
+
+// not - ! - ultya khopdicha
+// 0 ----> 1 
+// 1 ----> 0 
+
+
+
+// assignment operator
+
+// a = 10 
+// b = a 
+
+// a = 10 
+// a = 12 
+// a = a + 2 
+// a += 2;
+// a -= 2;
+// a *= 2;
+// a /= 2;
+// a %= 2;
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a = 10;
+//     printf("a = %d\n",a);
+//     a += 2;
+//     printf("a = %d\n",a);
+//     a -= 2;
+//     printf("a = %d\n",a);
+//     a *= 2;
+//     printf("a = %d\n",a);
+//     a /= 2;
+//     printf("a = %d\n",a);
+//     a %= 2;
+//     printf("a = %d\n",a);
+
+// }
+
+
+// ----------- HomeWork --------------
+// get radious from user and print area of circle 
+// ged height and base and print area of triangle
+// get a number from user and print square
