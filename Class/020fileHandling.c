@@ -22,7 +22,7 @@ int main()
     printf("my data is %s\n",data);
     fclose(ptr);
 }
-
+orasore
 
 // Write mode 
 // Append mode 
