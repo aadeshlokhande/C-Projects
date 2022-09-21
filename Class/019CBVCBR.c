@@ -34,5 +34,5 @@
 // }
 
 
-// -----------------HOMEWORK--------------
+// ----------------- HOMEWORK --------------
 // try to make function like scanf 
