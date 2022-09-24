@@ -29,8 +29,8 @@
 // int main()
 // {
 //     FILE *file;
-//     file = fopen("myfile001.txt","w");
-//     fprintf(file, "HEllo, \nbuddy how are you");
+//     file = fopen("myfile.txt","w");
+//     fprintf(file, "lol\n");
 //     fclose(file);
 // }
 
