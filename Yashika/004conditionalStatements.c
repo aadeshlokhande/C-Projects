@@ -77,7 +77,6 @@
 // int main()
 // {
 //     int num = 128;
-
 //     if(num>20 && num<100)
 //     {
 //         printf("True\n");
