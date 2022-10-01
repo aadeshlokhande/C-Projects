@@ -9,9 +9,10 @@ int main()
     fprintf(file,"\tint a;\n");
     fprintf(file,"\tprintf(\"enter a number = \");\n");
     fprintf(file,"\tscanf(\"%%d\",&a);\n");
+    
     fprintf(file,"\tif(a==0)\n\t{\n\t\tprintf(\"Even Number\\n\");\n\t}\n");
 
-    for(int i = 1; i<=10000; i++)
+    for(int i = 1; i<=1000; i++)
     {
         fprintf(file,"\telse if(a==%d)\n\t{\n\t\tprintf(\"Odd Number\\n\");\n\t}\n",i);
         ++i;
@@ -21,4 +22,5 @@ int main()
     fprintf(file,"\treturn 0;\n}");
 
     fclose(file);
+    return 0;
 }
