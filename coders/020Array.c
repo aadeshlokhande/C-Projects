@@ -35,8 +35,9 @@
 // int main()
 // {
 //     int size;
-//     printf("Enter a number = ");
+//     printf("Enter a size = ");
 //     scanf("%d",&size);
+
 //     int a[size];
     
 //     for(int b = 0; b<size; b++)
@@ -50,6 +51,50 @@
 // ----------------------------
 // Homework 
 // Get 10 numbers from user and print reverse
+// #include<stdio.h>
+// int main()
+// {
+//     int a[10];
+//     for(int i =0; i<10; i++)
+//     {
+//         printf("Enter a value of a[%d] = ",i);
+//         scanf("%d",&a[i]);
+//     }
+
+//     for(int i=9; i>=0; i--)
+//     {
+//         printf("%d ",a[i]);
+//     }
+// }
+
+
+
 // get 10 numbers from user and print total sum 
+
 // get 10 numbers and print all even numbers 
+// #include<stdio.h>
+// int main()
+// {
+//     int a[10];
+
+//     for(int i = 0; i<10; i++)
+//     {
+//         printf("Enter a number = ");
+//         scanf("%d",&a[i]);
+//     }
+
+//     printf("Even numbers = ");
+
+//     for(int i = 0; i<10; i++)
+//     {
+//         if(a[i]%2==0)
+//         {
+//             printf("%d ",a[i]);
+//         }
+//     }
+// }
+
 // get 10 numbers and print number of odd numbers
+// get size from user and get all numbers from user and print greatest number 
+// get 10 numbers from user and print prime number
+// get 10 numbers from user and print all factors
