@@ -95,6 +95,46 @@
 // }
 
 // get 10 numbers and print number of odd numbers
-// get size from user and get all numbers from user and print greatest number 
+// get size from user and get all numbers from user and print greatest number
+// #include<stdio.h>
+// int main()
+// {
+//     int s,gn=0;
+//     printf("Enter a size = ");
+//     scanf("%d",&s);
+
+//     int ary[s];
+
+//     for(int i = 0; i<s; i++)
+//     {
+//         printf("enter the value of ary[%d] =  ",i);
+//         scanf("%d",&ary[i]);
+//     }
+//     // s = 5 : 1,4,3,7,5
+//     for(int i=0; i<s; i++)
+//     {
+//         if(ary[i]>gn)
+//         {
+//             gn=ary[i];
+//         }
+//     }
+
+//     printf("greatest number = %d\n",gn);
+
+// }
+
+
 // get 10 numbers from user and print prime number
 // get 10 numbers from user and print all factors
+
+
+
+
+
+// --------------------------------------
+// #include<stdio.h>
+// int main()
+// {
+//     int a[10];
+//     printf("%d\n",a[0]);
+// }
