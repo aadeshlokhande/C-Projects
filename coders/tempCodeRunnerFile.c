@@ -1,10 +1,13 @@
-or(int i=0; i<6; i++)
+lude<stdio.h>
+int main()
+{
+    int age = 23;
+    if(age>18)
     {
-        printf("Enter a number = ");
-        scanf("%d",&ary[i]);
+        printf("you can vote\n");
     }
-
-    for(int i=0; i<6; i++)
-    {
-        printf("array[%d] =%d\n",ary[i]);
+    else
+    { 
+        printf("you can't vote\n");
     }
+}
