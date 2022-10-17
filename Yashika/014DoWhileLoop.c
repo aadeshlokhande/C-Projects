@@ -64,3 +64,21 @@
 //     }while(con==1);
     
 // }
+
+// -----------------------------------------------
+
+// #include<stdio.h>
+// int main()
+// {
+//     int a,b,ans;
+//     do 
+//     {
+//         printf("Enter a number = ");
+//         scanf("%d",&a);
+//         printf("Enter a number = ");
+//         scanf("%d",&b);
+//         ans = a + b;
+//         printf("%d + %d = %d\n",a,b,ans);
+//     }while(ans!=0);
+// }
+
