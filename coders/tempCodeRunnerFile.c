@@ -1,13 +1,4 @@
-lude<stdio.h>
-int main()
-{
-    int age = 23;
-    if(age>18)
-    {
-        printf("you can vote\n");
-    }
-    else
-    { 
-        printf("you can't vote\n");
-    }
-}
+
+oc - 0 7 
+dec - 0 9 
+hexadec - 0 15
