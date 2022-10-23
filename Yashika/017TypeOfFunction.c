@@ -38,19 +38,19 @@
 
 // without argument with return 
 
-#include<stdio.h>
-int add()
-{
-    int a = 10,b = 20,ans;
-    ans = a + b;
-    return ans;
-}
+// #include<stdio.h>
+// int add()
+// {
+//     int a = 10,b = 20,ans;
+//     ans = a + b;
+//     return ans;
+// }
 
 
 
-int main()
-{
-    int abc = add();
-    printf("ans = %d\n",abc);
+// int main()
+// {
+//     int abc = add();
+//     printf("ans = %d\n",abc);
 
-}
+// }
