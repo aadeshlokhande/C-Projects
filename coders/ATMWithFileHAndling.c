@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 int readPin()
 {
@@ -38,7 +37,7 @@ void writeBal(int a)
 
 int main()
 {
-    int pin, upin, bal,amount, npin,cpin, choice;
+    int pin, upin, bal, amount, npin, cpin, choice;
 
     printf("Press 1: withdraw\n");
     printf("Press 2: check balance\n");
@@ -75,6 +74,57 @@ int main()
             {
                 printf("wrong pin\n");
             }
+            break;
+        
+        case 2:
+            printf("Enter a pin = ");
+            scanf("%d",&upin);
 
+            pin = readPin();
+            if(pin==upin)
+            {
+                bal = readBal();
+                printf("current balance = %d\n",bal);
+            }
+            else
+            {
+                printf("Wrong pin\n");
+            }
+            break;
+
+        case 3:
+            printf("Enter a pin = ");
+            scanf("%d",&upin);
+            pin = readPin();
+
+            if(pin==upin)
+            {
+                printf("enter a new pin = ");
+                scanf("%d",&npin);
+                printf("confirm your pin = ");
+                scanf("%d",&cpin);
+
+                if(npin==cpin)
+                {
+                    printf("pin changed successfully...!!!\n");
+                    writePin(npin);
+                }
+                else
+                {
+                    printf("pin doesn't match\n");
+                }
+            }
+            else 
+            {
+                printf("Wrong pin\n");
+            }
+            break;
     }
 }
+
+
+
+
+// // header files 
+// // struct and union 
+
