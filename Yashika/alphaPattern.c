@@ -31,6 +31,7 @@ int main()
     char ch;
     int index;
     char str[27] = " abcdefghijklmnopqrstuvwxyz";
+
     printf("enter a char = ");
     scanf("%c",&ch);
 
@@ -38,8 +39,13 @@ int main()
     {
         if(str[i]==ch)
         {
-            
+            index = i;
         }
     }
 
+    for(int i = 0; i<7; i++)
+    {
+        printf("%s\n",alpha[index][i]);
+    }
+    
 }
